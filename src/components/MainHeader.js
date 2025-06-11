@@ -1,5 +1,5 @@
 import React from 'react';
-
+//image
 const MainHeader = ({ onNavigate }) => {
   return (
     <header className="bg-gradient-to-r from-red-600 to-red-800 p-4 shadow-lg">

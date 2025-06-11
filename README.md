@@ -9,6 +9,7 @@ Mejoras menores en la interfaz móvil.
 Ajustes de rendimiento en el módulo de calendario.
 
 🏗️ Tecnologías utilizadas
+
 Frontend: React.js
 
 Backend: Node.js + Express

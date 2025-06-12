@@ -1,6 +1,5 @@
 # RojaDirecta
 
-# 🐞 Registro de cambios
 # 🔧 Versión 2.1.2 (25 de mayo de 2025)
 
 **Versionado del sistema**: 

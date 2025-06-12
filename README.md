@@ -1,8 +1,8 @@
 # RojaDirecta
 
-# 🔧 Versión 2.1.2 (25 de mayo de 2025)
+#  Versión 2.1.2 (25 de mayo de 2025)
 
-**Versionado del sistema**: 
+## 🔧 **Versionado del sistema**: 
 
 Historial de versiones relevante:
 v2.1.2 (25/05/2025)
@@ -11,7 +11,7 @@ v2.1.2 (25/05/2025)
 
 ✔ Mejoras menores en la interfaz responsive
 
-**Control de versiones**:
+## **Control de versiones**:
 
 Sistema de control de versiones: Git
 
@@ -36,8 +36,7 @@ Uso de Issues:
 
 Se emplean issues para registrar errores detectados o tareas pendientes, sirviendo como un registro técnico del avance del proyecto.
 
-
-🏗️ **Tecnologías utilizadas**
+## 🏗️ **Tecnologías utilizadas**
 
 Frontend: React.js
 
@@ -49,7 +48,7 @@ Autenticación: JWT
 
 Estilos: CSS + Tailwind
 
-📂 **Herramientas de Gestión de Configuración utilizadas**
+## 📂 **Herramientas de Gestión de Configuración utilizadas**
 
 Control de versiones: Git + GitHub
 
@@ -57,7 +56,7 @@ Plataforma de repositorio: GitHub
 
 Branch principal: main
 
-🧩**Elementos de Configuración**
+## 🧩**Elementos de Configuración**
 
 Código fuente (src/)
 
@@ -69,13 +68,13 @@ Documentación (README.md)
 
 Historial de versiones (commits y releases en GitHub)
 
-🔁 **Gestión de Cambios**
+## 🔁 **Gestión de Cambios**
 
 Historial de cambios: Documentado en el archivo CHANGELOG.md y en el README.
 
 Seguimiento de bugs y mejoras: Manual en issues de GitHub / documentado en commits.
 
-🚀 **Compilación y Despliegue**
+## 🚀 **Compilación y Despliegue**
 
 Builds locales: Ejecutados con npm start
 

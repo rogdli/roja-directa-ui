@@ -2,11 +2,12 @@
 
 # 🐞 Registro de cambios
 # 🔧 Versión 2.1.2 (25 de mayo de 2025)
-Corrección crítica: Se solucionó un bug en los filtros por fecha que provocaba que se mostraran reservas incorrectas o duplicadas.
 
-Mejoras menores en la interfaz móvil.
+*Correcciones*: 
 
-Ajustes de rendimiento en el módulo de calendario.
+Se solucionó un bug en los filtros por fecha que provocaba que se mostraran reservas incorrectas.
+
+Mejoras menores en la interfaz responsive.
 
 🏗️ Tecnologías utilizadas
 

@@ -11,16 +11,17 @@ v2.1.2 (25/05/2025)
 
 ✔ Mejoras menores en la interfaz responsive
 
-Auditoría de configuración realizada: se validó que los ítems versionados cumplan con los requisitos definidos para esta versión.
+Se mantiene un historial detallado de los cambios por versión para asegurar trazabilidad. Cada nueva versión refleja mejoras, correcciones o nuevas funcionalidades validadas.
 
 ## **Control de versiones**:
+
+Antes de publicar una nueva versión, se realiza una revisión manual de todos los cambios en el repositorio. Se valida que el código esté en la versión correcta, que los commits reflejen lo que se hizo, y que no haya archivos obsoletos o errores por configuración.
 
 Sistema de control de versiones: Git
 
 Repositorio remoto: GitHub
 URL: https://github.com/rogdli/roja-directa-ui
 
-Antes de publicar una nueva versión, se realiza una revisión manual de todos los cambios en el repositorio. Se valida que el código esté en la versión correcta, que los commits reflejen lo que se hizo, y que no haya archivos obsoletos o errores por configuración.
 
 ## Flujo de trabajo profesional adoptado:
 
@@ -50,6 +51,8 @@ Estilos: CSS + Tailwind
 
 ## 📂 **Herramientas de Gestión de Configuración utilizadas**
 
+Permiten registrar, organizar y controlar los elementos del proyecto a lo largo del tiempo, asegurando consistencia y facilitando auditorías.
+
 Control de versiones: Git + GitHub
 
 Plataforma de repositorio: GitHub
@@ -57,6 +60,8 @@ Plataforma de repositorio: GitHub
 Branch principal: main
 
 ## 🧩**Elementos de Configuración**
+
+Son los componentes clave del sistema que están bajo control. Se monitorean para evitar inconsistencias o pérdidas de información entre versiones.
 
 Código fuente (src/)
 
@@ -68,13 +73,18 @@ Documentación (README.md)
 
 Historial de versiones (commits y releases en GitHub)
 
+
 ## 🔁 **Gestión de Cambios**
+
+Se registran todas las modificaciones relevantes al sistema. Esto permite saber qué se cambió, cuándo, por qué y quién lo hizo.
 
 Historial de cambios: Documentado en el archivo CHANGELOG.md y en el README.
 
 Seguimiento de bugs y mejoras: Manual en issues de GitHub / documentado en commits.
 
 ## 🚀 **Compilación y Despliegue**
+
+El sistema puede ejecutarse localmente para pruebas. Luego se despliega en producción mediante Vercel, utilizando variables de entorno para configurar los parámetros necesarios.
 
 Builds locales: Ejecutados con npm start
 

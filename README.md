@@ -2,7 +2,7 @@
 
 #  Versión 2.1.2 (25 de mayo de 2025)
 
-## 🔧 **Versionado del sistema**: 
+## 🔧 **Versionado del Sistema**: 
 
 Historial de versiones relevante:
 v2.1.2 (25/05/2025)
@@ -13,7 +13,7 @@ v2.1.2 (25/05/2025)
 
 Se mantiene un historial detallado de los cambios por versión para asegurar trazabilidad. Cada nueva versión refleja mejoras, correcciones o nuevas funcionalidades validadas.
 
-## **Control de versiones**:
+## **Control de Versiones**:
 
 Antes de publicar una nueva versión, se realiza una revisión manual de todos los cambios en el repositorio. Se valida que el código esté en la versión correcta, que los commits reflejen lo que se hizo, y que no haya archivos obsoletos o errores por configuración.
 
@@ -23,7 +23,7 @@ Repositorio remoto: GitHub
 URL: https://github.com/rogdli/roja-directa-ui
 
 
-## Flujo de trabajo profesional adoptado:
+## Flujo de Trabajo Profesional adoptado:
 
 Se utiliza la rama principal main como base estable.
 
@@ -37,7 +37,7 @@ Tener una trazabilidad clara de qué se hizo, cuándo y con qué propósito.
 
 Una vez aprobado, se hace merge del PR a la rama principal.
 
-## 🏗️ **Tecnologías utilizadas**
+## 🏗️ **Tecnologías Utilizadas**
 
 Frontend: React.js
 

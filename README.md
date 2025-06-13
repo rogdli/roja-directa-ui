@@ -11,6 +11,8 @@ v2.1.2 (25/05/2025)
 
 ✔ Mejoras menores en la interfaz responsive
 
+Auditoría de configuración realizada: se validó que los ítems versionados cumplan con los requisitos definidos para esta versión.
+
 ## **Control de versiones**:
 
 Sistema de control de versiones: Git
@@ -18,7 +20,9 @@ Sistema de control de versiones: Git
 Repositorio remoto: GitHub
 URL: https://github.com/rogdli/roja-directa-ui
 
-Flujo de trabajo profesional adoptado:
+Antes de publicar una nueva versión, se realiza una revisión manual de todos los cambios en el repositorio. Se valida que el código esté en la versión correcta, que los commits reflejen lo que se hizo, y que no haya archivos obsoletos o errores por configuración.
+
+## Flujo de trabajo profesional adoptado:
 
 Se utiliza la rama principal main como base estable.
 
@@ -31,10 +35,6 @@ Revisar y aprobar los cambios antes de integrarlos.
 Tener una trazabilidad clara de qué se hizo, cuándo y con qué propósito.
 
 Una vez aprobado, se hace merge del PR a la rama principal.
-
-Uso de Issues:
-
-Se emplean issues para registrar errores detectados o tareas pendientes, sirviendo como un registro técnico del avance del proyecto.
 
 ## 🏗️ **Tecnologías utilizadas**
 

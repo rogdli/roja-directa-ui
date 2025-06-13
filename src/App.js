@@ -7,7 +7,7 @@ import PaymentModal from './components/PaymentModal';
 import ReservationList from './components/ReservationList';
 import { courts } from './mock/courts';
 import { createStorage } from './utils/storage';
-//cambios
+//cambios 2.1.2
 const App = () => {
   const [currentPage, setCurrentPage] = useState('home');
   const [selectedCourt, setSelectedCourt] = useState(null);
